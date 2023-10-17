@@ -1,0 +1,15 @@
+INPUT(
+./release\qhotkey.o
+./release\qhotkey_win.o
+./release\fullscreenwindow.o
+./release\main.o
+./release\videorecorder.o
+./release\videoscreen.o
+./release\widget.o
+./release\moc_qhotkey.o
+./release\moc_qhotkey_p.o
+./release\moc_fullscreenwindow.o
+./release\moc_videorecorder.o
+./release\moc_videoscreen.o
+./release\moc_widget.o
+);

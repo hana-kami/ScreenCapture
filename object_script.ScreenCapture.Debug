@@ -1,0 +1,15 @@
+INPUT(
+./debug\qhotkey.o
+./debug\qhotkey_win.o
+./debug\fullscreenwindow.o
+./debug\main.o
+./debug\videorecorder.o
+./debug\videoscreen.o
+./debug\widget.o
+./debug\moc_qhotkey.o
+./debug\moc_qhotkey_p.o
+./debug\moc_fullscreenwindow.o
+./debug\moc_videorecorder.o
+./debug\moc_videoscreen.o
+./debug\moc_widget.o
+);
